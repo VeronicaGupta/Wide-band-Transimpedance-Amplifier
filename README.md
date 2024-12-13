@@ -25,6 +25,7 @@ This project focuses on designing a transimpedance amplifier (TIA) for an optica
 ## Images Overview
 - **Image 1**: Shows the concept of chiplet-based system architectures. (Refer to `chiplet_architecture.png`)
 - **Image 2**: Illustrates the integration of optical and electrical domains within CPO. (Refer to `CPO_integration.png`)
+- **Image 3**: Illustrated test bench to get circuit performance. (Refer to `Test_bench_.png`)
 
 ## Design Specifications
 - **Input**: Single-ended photo-diode with 0.5pF shunt capacitor.
